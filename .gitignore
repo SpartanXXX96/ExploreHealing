@@ -1,5 +1,8 @@
+# Ignore build output and dependencies
 node_modules/
 .next/
+out/
+dist/
 .env
 .DS_Store
 npm-debug.log*
